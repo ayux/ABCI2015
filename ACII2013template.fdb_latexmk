@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex ACII2013template"] 1436521872 "ACII2013template.aux" "ACII2013template.bbl" "ACII2013template" 1436521875
+["bibtex ACII2013template"] 1436528604 "ACII2013template.aux" "ACII2013template.bbl" "ACII2013template" 1436528607
   "/usr/local/texlive/2014/texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst" 1222816716 59506 016987d9be15acf51cdd7252d40ecec2 ""
-  "ACII2013template.aux" 1436521874 6783 755225ea122d5f0a056381dcf51720b0 ""
+  "ACII2013template.aux" 1436528606 6783 65c0cce1e2ff9709aba73ab9cacfa508 ""
   "ACII2013template.bcf" 0 -1 0 ""
   "ref.bib" 1433241566 13842 baa5e8250833b7ac1c4d00103fe81c20 ""
   (generated)
   "ACII2013template.blg"
   "ACII2013template.bbl"
-["pdflatex"] 1436521873 "ACII2013template.tex" "ACII2013template.pdf" "ACII2013template" 1436521875
+["pdflatex"] 1436528605 "ACII2013template.tex" "ACII2013template.pdf" "ACII2013template" 1436528607
   "/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -94,9 +94,9 @@
   "/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1401025944 1445653 26a0aacf3d70032b1ec192e8c7792117 ""
   "/usr/local/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt" 1432646516 3832012 ae0fb58d45840eaadc443a3c847c2f7c ""
   "/usr/local/texlive/2014/texmf.cnf" 1401025936 577 a59edbde8d3a8c549d0eeaab1739e2ff ""
-  "ACII2013template.aux" 1436521874 6783 755225ea122d5f0a056381dcf51720b0 ""
-  "ACII2013template.bbl" 1436521873 8501 5bf39c958936060d8d4eff0a81397901 "bibtex ACII2013template"
-  "ACII2013template.tex" 1436521647 19588 8218a221ff0e1c500c3f3193f33cbd9c ""
+  "ACII2013template.aux" 1436528606 6783 65c0cce1e2ff9709aba73ab9cacfa508 ""
+  "ACII2013template.bbl" 1436528605 8501 5bf39c958936060d8d4eff0a81397901 "bibtex ACII2013template"
+  "ACII2013template.tex" 1436528559 19717 cb054d3ee0ec6ab070b39a2543ed4296 ""
   "Background.tex" 1436521806 7803 145bd704f3d2d4e97a96d1d1ec96cd61 ""
   "Conclusion.tex" 1433243638 866 1cef6c93f7871d931e6c6f54c72e1c2f ""
   "Introduction.tex" 1436521782 7514 018148675d528934a82250ef5b2344a7 ""
@@ -109,6 +109,6 @@
   "images/weighted_fcm0.png" 1433231312 49947 98418d8aa72e9d1ce3712912680103b9 ""
   "images/weighted_fcp.png" 1433230782 10011 a7278d3518851ceff94dbc9e459aec14 ""
   (generated)
-  "ACII2013template.aux"
-  "ACII2013template.pdf"
   "ACII2013template.log"
+  "ACII2013template.pdf"
+  "ACII2013template.aux"
