@@ -126,6 +126,11 @@ V.~M. Eguiluz, D.~R. Chialvo, G.~A. Cecchi, M.~Baliki, and A.~V. Apkarian,
   ``Scale-free brain functional networks,'' \emph{Physical review letters},
   vol.~94, no.~1, p. 018102, 2005.
 
+\bibitem{stam2004functional}
+C.~J. Stam, ``Functional connectivity patterns of human magnetoencephalographic
+  recordings: a ‘small-world’network?'' \emph{Neuroscience letters}, vol.
+  355, no.~1, pp. 25--28, 2004.
+
 \bibitem{watts1998collective}
 D.~J. Watts and S.~H. Strogatz, ``Collective dynamics of
   ‘small-world’networks,'' \emph{nature}, vol. 393, no. 6684, pp. 440--442,
@@ -147,25 +152,20 @@ C.~Wolters and J.~C. de~Munck, ``Volume conduction,'' \emph{Scholarpedia},
 S.~J. Luck, \emph{An introduction to the event-related potential
   technique}.\hskip 1em plus 0.5em minus 0.4em\relax MIT press, 2014.
 
-\bibitem{bettus2008enhanced}
-G.~Bettus, F.~Wendling, M.~Guye, L.~Valton, J.~R{\'e}gis, P.~Chauvel, and
-  F.~Bartolomei, ``Enhanced eeg functional connectivity in mesial temporal lobe
-  epilepsy,'' \emph{Epilepsy research}, vol.~81, no.~1, pp. 58--68, 2008.
-
 \bibitem{roebroeck2005mapping}
 A.~Roebroeck, E.~Formisano, and R.~Goebel, ``Mapping directed influence over
   the brain using granger causality and fmri,'' \emph{Neuroimage}, vol.~25,
   no.~1, pp. 230--242, 2005.
 
+\bibitem{bettus2008enhanced}
+G.~Bettus, F.~Wendling, M.~Guye, L.~Valton, J.~R{\'e}gis, P.~Chauvel, and
+  F.~Bartolomei, ``Enhanced eeg functional connectivity in mesial temporal lobe
+  epilepsy,'' \emph{Epilepsy research}, vol.~81, no.~1, pp. 58--68, 2008.
+
 \bibitem{barnett2014mvgc}
 L.~Barnett and A.~K. Seth, ``The mvgc multivariate granger causality toolbox: A
   new approach to granger-causal inference,'' \emph{Journal of neuroscience
   methods}, vol. 223, pp. 50--68, 2014.
-
-\bibitem{morf1978recursive}
-M.~Morf, A.~Vieira, D.~Lee, and T.~Kailath, ``Recursive multichannel maximum
-  entropy spectral estimation,'' \emph{IEEE Trans. Geosci. Electron}, vol.~16,
-  no.~2, pp. 85--94, 1978.
 
 \bibitem{oostenveld2010fieldtrip}
 R.~Oostenveld, P.~Fries, E.~Maris, and J.-M. Schoffelen, ``Fieldtrip: open
@@ -177,15 +177,19 @@ R.~Oostenveld, P.~Fries, E.~Maris, and J.-M. Schoffelen, ``Fieldtrip: open
 J.~R. Ullmann, ``An algorithm for subgraph isomorphism,'' \emph{Journal of the
   ACM (JACM)}, vol.~23, no.~1, pp. 31--42, 1976.
 
-\bibitem{stam2004functional}
-C.~J. Stam, ``Functional connectivity patterns of human magnetoencephalographic
-  recordings: a ‘small-world’network?'' \emph{Neuroscience letters}, vol.
-  355, no.~1, pp. 25--28, 2004.
+\bibitem{rubinov2010complex}
+M.~Rubinov and O.~Sporns, ``Complex network measures of brain connectivity:
+  uses and interpretations,'' \emph{Neuroimage}, vol.~52, no.~3, pp.
+  1059--1069, 2010.
 
 \bibitem{anand2009entropy}
 K.~Anand and G.~Bianconi, ``Entropy measures for networks: Toward an
   information theory of complex topologies,'' \emph{Physical Review E},
   vol.~80, no.~4, p. 045102, 2009.
+
+\bibitem{lin1991divergence}
+J.~Lin, ``Divergence measures based on the shannon entropy,'' \emph{Information
+  Theory, IEEE Transactions on}, vol.~37, no.~1, pp. 145--151, 1991.
 
 \bibitem{uebersax1987diversity}
 J.~S. Uebersax, ``Diversity of decision-making models and the measurement of
