@@ -21,6 +21,24 @@
 \providecommand{\BIBdecl}{\relax}
 \BIBdecl
 
+\bibitem{lyons1998coding}
+M.~Lyons, S.~Akamatsu, M.~Kamachi, and J.~Gyoba, ``Coding facial expressions
+  with gabor wavelets,'' in \emph{Automatic Face and Gesture Recognition, 1998.
+  Proceedings. Third IEEE International Conference on}.\hskip 1em plus 0.5em
+  minus 0.4em\relax IEEE, 1998, pp. 200--205.
+
+\bibitem{de2003taste}
+I.~E. De~Araujo, E.~T. Rolls, M.~L. Kringelbach, F.~McGlone, and N.~Phillips,
+  ``Taste-olfactory convergence, and the representation of the pleasantness of
+  flavour, in the human brain,'' \emph{European Journal of Neuroscience},
+  vol.~18, no.~7, pp. 2059--2068, 2003.
+
+\bibitem{bellezza1986words}
+F.~S. Bellezza, A.~G. Greenwald, and M.~R. Banaji, ``Words high and low in
+  pleasantness as rated by male and female college students,'' \emph{Behavior
+  Research Methods, Instruments, \& Computers}, vol.~18, no.~3, pp. 299--303,
+  1986.
+
 \bibitem{nakamoto2011olfactory}
 T.~Nakamoto, H.~Ishida, and H.~Matsukura, ``Olfactory display using solenoid
   valves and fluid dynamics simulation,'' \emph{Multiple Sensorial Media
@@ -41,24 +59,6 @@ C.~S. Gulas and P.~H. Bloch, ``Right under our noses: ambient scent and
   consumer responses,'' \emph{Journal of Business and Psychology}, vol.~10,
   no.~1, pp. 87--98, 1995.
 
-\bibitem{lyons1998coding}
-M.~Lyons, S.~Akamatsu, M.~Kamachi, and J.~Gyoba, ``Coding facial expressions
-  with gabor wavelets,'' in \emph{Automatic Face and Gesture Recognition, 1998.
-  Proceedings. Third IEEE International Conference on}.\hskip 1em plus 0.5em
-  minus 0.4em\relax IEEE, 1998, pp. 200--205.
-
-\bibitem{de2003taste}
-I.~E. De~Araujo, E.~T. Rolls, M.~L. Kringelbach, F.~McGlone, and N.~Phillips,
-  ``Taste-olfactory convergence, and the representation of the pleasantness of
-  flavour, in the human brain,'' \emph{European Journal of Neuroscience},
-  vol.~18, no.~7, pp. 2059--2068, 2003.
-
-\bibitem{bellezza1986words}
-F.~S. Bellezza, A.~G. Greenwald, and M.~R. Banaji, ``Words high and low in
-  pleasantness as rated by male and female college students,'' \emph{Behavior
-  Research Methods, Instruments, \& Computers}, vol.~18, no.~3, pp. 299--303,
-  1986.
-
 \bibitem{zatorre2000neural}
 R.~J. Zatorre, M.~Jones-Gotman, and C.~Rouby, ``Neural mechanisms involved in
   odor pleasantness and intensity judgments,'' \emph{Neuroreport}, vol.~11,
@@ -76,16 +76,34 @@ E.~Kroupi, A.~Yazdani, J.-M. Vesin, and T.~Ebrahimi, ``Eeg correlates of
   Multimedia Computing, Communications, and Applications (TOMM)}, vol.~11,
   no.~1s, p.~13, 2014.
 
-\bibitem{kroupi2012multivariate}
-------, ``Multivariate spectral analysis for identifying the brain activations
-  during olfactory perception,'' in \emph{Engineering in Medicine and Biology
-  Society (EMBC), 2012 Annual International Conference of the IEEE}.\hskip 1em
-  plus 0.5em minus 0.4em\relax IEEE, 2012, pp. 6172--6175.
+\bibitem{sporns2007brain}
+O.~Sporns, ``Brain connectivity,'' \emph{Scholarpedia}, vol.~2, no.~10, p.
+  4695, 2007.
 
-\bibitem{joussain2013effect}
-P.~Joussain, M.~Thevenet, C.~Rouby, and M.~Bensafi, ``Effect of aging on
-  hedonic appreciation of pleasant and unpleasant odors,'' \emph{PloS one},
-  vol.~8, no.~4, p. e61376, 2013.
+\bibitem{fingelkurts2005functional}
+A.~A. Fingelkurts, A.~A. Fingelkurts, and S.~K{\"a}hk{\"o}nen, ``Functional
+  connectivity in the brain—is it an elusive concept?'' \emph{Neuroscience \&
+  Biobehavioral Reviews}, vol.~28, no.~8, pp. 827--836, 2005.
+
+\bibitem{granger1969investigating}
+C.~W. Granger, ``Investigating causal relations by econometric models and
+  cross-spectral methods,'' \emph{Econometrica: Journal of the Econometric
+  Society}, pp. 424--438, 1969.
+
+\bibitem{pijn1990localization}
+J.~Pijn, P.~Vijn, F.~Lopes~da Silva, W.~Van Ende~Boas, and W.~Blanes,
+  ``Localization of epileptogenic foci using a new signal analytical
+  approach,'' \emph{Neurophysiologie Clinique/Clinical Neurophysiology},
+  vol.~20, no.~1, pp. 1--11, 1990.
+
+\bibitem{schreiber2000measuring}
+T.~Schreiber, ``Measuring information transfer,'' \emph{Physical review
+  letters}, vol.~85, no.~2, p. 461, 2000.
+
+\bibitem{sun2004measuring}
+F.~T. Sun, L.~M. Miller, and M.~D'Esposito, ``Measuring interregional
+  functional connectivity using coherence and partial coherence analyses of
+  fmri data,'' \emph{Neuroimage}, vol.~21, no.~2, pp. 647--658, 2004.
 
 \bibitem{greicius2007resting}
 M.~D. Greicius, B.~H. Flores, V.~Menon, G.~H. Glover, H.~B. Solvason, H.~Kenna,
@@ -99,30 +117,14 @@ A.~B. Waites, R.~S. Briellmann, M.~M. Saling, D.~F. Abbott, and G.~D. Jackson,
   ``Functional connectivity networks are disrupted in left temporal lobe
   epilepsy,'' \emph{Annals of neurology}, vol.~59, no.~2, pp. 335--343, 2006.
 
-\bibitem{van2010exploring}
-M.~P. Van Den~Heuvel and H.~E. Hulshoff~Pol, ``Exploring the brain network: a
-  review on resting-state fmri functional connectivity,'' \emph{European
-  Neuropsychopharmacology}, vol.~20, no.~8, pp. 519--534, 2010.
+\bibitem{bassett2006small}
+D.~S. Bassett and E.~Bullmore, ``Small-world brain networks,'' \emph{The
+  neuroscientist}, vol.~12, no.~6, pp. 512--523, 2006.
 
-\bibitem{granger1969investigating}
-C.~W. Granger, ``Investigating causal relations by econometric models and
-  cross-spectral methods,'' \emph{Econometrica: Journal of the Econometric
-  Society}, pp. 424--438, 1969.
-
-\bibitem{schreiber2000measuring}
-T.~Schreiber, ``Measuring information transfer,'' \emph{Physical review
-  letters}, vol.~85, no.~2, p. 461, 2000.
-
-\bibitem{pijn1990localization}
-J.~Pijn, P.~Vijn, F.~Lopes~da Silva, W.~Van Ende~Boas, and W.~Blanes,
-  ``Localization of epileptogenic foci using a new signal analytical
-  approach,'' \emph{Neurophysiologie Clinique/Clinical Neurophysiology},
-  vol.~20, no.~1, pp. 1--11, 1990.
-
-\bibitem{sun2004measuring}
-F.~T. Sun, L.~M. Miller, and M.~D'Esposito, ``Measuring interregional
-  functional connectivity using coherence and partial coherence analyses of
-  fmri data,'' \emph{Neuroimage}, vol.~21, no.~2, pp. 647--658, 2004.
+\bibitem{eguiluz2005scale}
+V.~M. Eguiluz, D.~R. Chialvo, G.~A. Cecchi, M.~Baliki, and A.~V. Apkarian,
+  ``Scale-free brain functional networks,'' \emph{Physical review letters},
+  vol.~94, no.~1, p. 018102, 2005.
 
 \bibitem{watts1998collective}
 D.~J. Watts and S.~H. Strogatz, ``Collective dynamics of
@@ -144,10 +146,6 @@ C.~Wolters and J.~C. de~Munck, ``Volume conduction,'' \emph{Scholarpedia},
 \bibitem{luck2014introduction}
 S.~J. Luck, \emph{An introduction to the event-related potential
   technique}.\hskip 1em plus 0.5em minus 0.4em\relax MIT press, 2014.
-
-\bibitem{sporns2007brain}
-O.~Sporns, ``Brain connectivity,'' \emph{Scholarpedia}, vol.~2, no.~10, p.
-  4695, 2007.
 
 \bibitem{bettus2008enhanced}
 G.~Bettus, F.~Wendling, M.~Guye, L.~Valton, J.~R{\'e}gis, P.~Chauvel, and
@@ -174,15 +172,6 @@ R.~Oostenveld, P.~Fries, E.~Maris, and J.-M. Schoffelen, ``Fieldtrip: open
   source software for advanced analysis of {MEG}, {EEG}, and invasive
   electrophysiological data,'' \emph{Computational intelligence and
   neuroscience}, vol. 2011, 2010.
-
-\bibitem{eguiluz2005scale}
-V.~M. Eguiluz, D.~R. Chialvo, G.~A. Cecchi, M.~Baliki, and A.~V. Apkarian,
-  ``Scale-free brain functional networks,'' \emph{Physical review letters},
-  vol.~94, no.~1, p. 018102, 2005.
-
-\bibitem{bassett2006small}
-D.~S. Bassett and E.~Bullmore, ``Small-world brain networks,'' \emph{The
-  neuroscientist}, vol.~12, no.~6, pp. 512--523, 2006.
 
 \bibitem{ullmann1976algorithm}
 J.~R. Ullmann, ``An algorithm for subgraph isomorphism,'' \emph{Journal of the
