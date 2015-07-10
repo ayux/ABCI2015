@@ -1,5 +1,5 @@
 # Fdb version 3
-["bibtex ACII2013template"] 1436521418 "ACII2013template.aux" "ACII2013template.bbl" "ACII2013template" 1436521465
+["bibtex ACII2013template"] 1436521418 "ACII2013template.aux" "ACII2013template.bbl" "ACII2013template" 1436521598
   "/usr/local/texlive/2014/texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst" 1222816716 59506 016987d9be15acf51cdd7252d40ecec2 ""
   "ACII2013template.aux" 1436521420 6512 892f450c23ec538016288cc6053a4043 ""
   "ACII2013template.bcf" 0 -1 0 ""
@@ -7,7 +7,7 @@
   (generated)
   "ACII2013template.blg"
   "ACII2013template.bbl"
-["pdflatex"] 1436521419 "ACII2013template.tex" "ACII2013template.pdf" "ACII2013template" 1436521465
+["pdflatex"] 1436521419 "ACII2013template.tex" "ACII2013template.pdf" "ACII2013template" 1436521598
   "/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2014/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2014/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -108,6 +108,6 @@
   "images/weighted_fcm0.png" 1433231312 49947 98418d8aa72e9d1ce3712912680103b9 ""
   "images/weighted_fcp.png" 1433230782 10011 a7278d3518851ceff94dbc9e459aec14 ""
   (generated)
-  "ACII2013template.pdf"
   "ACII2013template.log"
   "ACII2013template.aux"
+  "ACII2013template.pdf"
