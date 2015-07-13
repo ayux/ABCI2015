@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.26)  11 JUL 2015 00:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2015.5.26)  13 JUL 2015 10:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -343,27 +343,24 @@ LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
  [2]
 Underfull \vbox (badness 3701) has occurred while \output is active []
 
+ [3]
+[4]) (./ResultsDiscussion.tex
+Package epstopdf Info: Source file: <./images/kappa.eps>
+(epstopdf)                    date: 2015-05-28 10:18:00
+(epstopdf)                    size: 16114 bytes
+(epstopdf)             Output file: <./images/kappa-eps-converted-to.pdf>
+(epstopdf)                    date: 2015-05-29 15:12:00
+(epstopdf)                    size: 7043 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/kappa-eps-convert
+ed-to.pdf ./images/kappa.eps>
+(epstopdf)             \includegraphics on input line 7.
+Package epstopdf Info: Output file is already uptodate.
 
-./Methods.tex:47: Undefined control sequence.
-l.47 ...ation trial is also of size $216 \times \2
-                                                  16$.
-? 
-./Methods.tex:47: Emergency stop.
-l.47 ...ation trial is also of size $216 \times \2
-                                                  16$.
-End of file on the terminal!
+<./images/kappa-eps-converted-to.pdf, id=29, 562.1pt x 421.575pt>
+File: ./images/kappa-eps-converted-to.pdf Graphic file (type pdf)
 
- 
-Here is how much of TeX's memory you used:
- 3196 strings out of 493117
- 47960 string characters out of 6135433
- 116828 words of memory out of 5000000
- 6618 multiletter control sequences out of 15000+600000
- 33752 words of font info for 67 fonts, out of 8000000 for 9000
- 1144 hyphenation exceptions out of 8191
- 38i,8n,24p,1386b,236s stack positions out of 5000i,500n,10000p,200000b,80000s
-./Methods.tex:47:  ==> Fatal error occurred, no output PDF file produced!
-nfo: ./images/kappa-eps-converted-to.pdf used on input line
+<use ./images/kappa-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/kappa-eps-converted-to.pdf used on input line
  7.
 (pdftex.def)             Requested size: 232.19843pt x 174.14627pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
