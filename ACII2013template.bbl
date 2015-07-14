@@ -140,6 +140,10 @@ D.~J. Watts and S.~H. Strogatz, ``Collective dynamics of
 V.~Latora and M.~Marchiori, ``Efficient behavior of small-world networks,''
   \emph{Physical review letters}, vol.~87, no.~19, p. 198701, 2001.
 
+\bibitem{shannon2001mathematical}
+C.~E. Shannon, ``A mathematical theory of communication,'' \emph{ACM SIGMOBILE
+  Mobile Computing and Communications Review}, vol.~5, no.~1, pp. 3--55, 2001.
+
 \bibitem{passerini2008neumann}
 F.~Passerini and S.~Severini, ``The von neumann entropy of networks,''
   \emph{arXiv preprint arXiv:0812.2597}, 2008.
